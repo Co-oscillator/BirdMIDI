@@ -1,5 +1,7 @@
 # BirdMIDI 🐦🎶
 
+![BirdMIDI Screenshot](docs/screenshot.png)
+
 **BirdMIDI** is a modern Android application that transcribes birdsong into editable MIDI data in real-time. It uses the robust **YIN Pitch Detection Algorithm** combined with a high-fidelity **48kHz audio capture** pipeline to track the high-frequency fundamentals of complex birdsong (up to 12kHz).
 
 ## Features
